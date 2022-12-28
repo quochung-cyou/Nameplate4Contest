@@ -1,5 +1,5 @@
 # Bangtentudong
-Tự động sinh ra bảng tên cho các thí sinh trong một kì thi từ một file tên bằng Python
+Tự động sinh ra bảng tên cho các thí sinh trong một kì thi từ một file tên bằng Python (Tự động căn giữa theo tên)
 
 # Bảng tên tự động 🔥🤖
 
