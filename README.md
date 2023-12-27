@@ -1,16 +1,18 @@
-# Bangtentudong
+# Nameplate For Contest
 Tự động sinh ra bảng tên cho các thí sinh trong một kì thi từ một file tên bằng Python (Tự động căn giữa theo tên)
 
-# Bảng tên tự động 🔥🤖
+# Nameplate For Contest
 
 
 Tự động sinh ra bảng tên cho các thí sinh trong một kì thi từ một file tên bằng Python
 
-## installing
+## Installing
 
 ### The Easy Way
 
-- Tải file về và chạy file main.py, cho tên các thí sinh vào từng dòng trong file 
+- Config tên các thí sinh trong file `input.txt`
+- Tải file về và chạy file main.py
+- Kết quả trong thư mục `output`
 
 ### Variable Explanations
 
@@ -18,10 +20,14 @@ Tự động sinh ra bảng tên cho các thí sinh trong một kì thi từ m�
 * `H`: Chiều dài của ảnh
 * `file1`: Tên của file
 
-### Demo ảnh bảng tên (<ProPTIT/> GGWP)
-![](demo.jpg)
+
 
 ### Demo ảnh được sinh ra theo output
 
 ![](output/1.png)
+![](output/2.png)
+![](output/3.png)
 
+
+### Demo ảnh bảng tên (<ProPTIT/> GGWP)
+![](demo.jpg)
